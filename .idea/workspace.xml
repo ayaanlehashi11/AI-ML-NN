@@ -3,6 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="e18898cd-98cd-4c31-842d-845fbb0fae5f" name="Changes" comment="com">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convolutional_neural_network/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/convolutional_neural_network/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet_introduction/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/neuralnet_introduction/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neuralnet_introduction/tensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/neuralnet_introduction/tensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimization_algorithms/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/optimization_algorithms/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recurrent_neural_network/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/recurrent_neural_network/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reinforcement_learning/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/reinforcement_learning/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supervised_learning/regression/LinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/supervised_learning/regression/LinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supervised_learning/regression/LogisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/supervised_learning/regression/LogisticRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsupervised_learning/Association.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/unsupervised_learning/Association.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsupervised_learning/Clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/unsupervised_learning/Clustering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsupervised_learning/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/unsupervised_learning/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676031273905</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="com">
+      <created>1678872877515</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678872877515</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
