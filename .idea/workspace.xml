@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e18898cd-98cd-4c31-842d-845fbb0fae5f" name="Changes" comment="com">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convolutional_neural_network/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/convolutional_neural_network/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neuralnet_introduction/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/neuralnet_introduction/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neuralnet_introduction/tensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/neuralnet_introduction/tensor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optimization_algorithms/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/optimization_algorithms/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recurrent_neural_network/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/recurrent_neural_network/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reinforcement_learning/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/reinforcement_learning/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/supervised_learning/regression/LinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/supervised_learning/regression/LinearRegression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/supervised_learning/regression/LogisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/supervised_learning/regression/LogisticRegression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsupervised_learning/Association.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/unsupervised_learning/Association.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsupervised_learning/Clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/unsupervised_learning/Clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsupervised_learning/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/unsupervised_learning/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/convolutional_neural_network/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/convolutional_neural_network/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/neuralnet_introduction/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/essence/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/neuralnet_introduction/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/essence/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/neuralnet_introduction/tensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/essence/tensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/recurrent_neural_network/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/recurrent_neural_network/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/reinforcement_learning/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/reinforcement_learning/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/supervised_learning/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/supervised_learning/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/supervised_learning/regression/LinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/supervised_learning/regression/LinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/supervised_learning/regression/LogisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/supervised_learning/regression/LogisticRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/supervised_learning/regression/PolynomialRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/supervised_learning/regression/PolynomialRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/supervised_learning/regression/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/supervised_learning/regression/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/unsupervised_learning/Association.py" beforeDir="false" afterPath="$PROJECT_DIR$/unsupervised_learning/Association.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/unsupervised_learning/Clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/unsupervised_learning/Clustering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/unsupervised_learning/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +40,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2DlXEBlfCqV8M5NsBgBQ6TYqNsE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,9 +53,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/ayaanle/PycharmProjects/MachineLearning&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WIN 10\PycharmProjects\MachineLearning" />
+      <recent name="C:\Users\WIN 10\PycharmProjects\MachineLearning\source\unsupervised_learning" />
+      <recent name="C:\Users\WIN 10\PycharmProjects\MachineLearning\source" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="MachineLearning&amp;NeuralNetworks" />
