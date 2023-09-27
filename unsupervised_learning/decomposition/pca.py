@@ -10,7 +10,7 @@ information on this dataset.
 
 """
 
-# Code source: Gaël Varoquaux
+# Code source: scikit-learn documentations
 # License: BSD 3 clause
 
 import matplotlib.pyplot as plt
