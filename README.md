@@ -1,3 +1,5 @@
+# Tools
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
@@ -16,3 +18,11 @@
 # MachineLearning
 this repo will contain my ML and neural network learning progress
 
+# Refrences , manuals and documentations
+
+- [tensorflow.org](https://www.tensorflow.org/api_docs/python/tf/)
+- [keras.io](https://keras.io/guides/)
+- [scikit-learn](https://scikit-learn.org/stable/tutorial/index.html)
+- [geeksforgeeks](https://www.geeksforgeeks.org/)
+- [datacamp](https://www.datacamp.com/tutorial/tutorial-for-recurrent-neural-network)
+- 
