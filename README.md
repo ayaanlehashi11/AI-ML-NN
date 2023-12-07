@@ -25,4 +25,4 @@ this repo will contain my ML and neural network learning progress
 - [scikit-learn](https://scikit-learn.org/stable/tutorial/index.html)
 - [geeksforgeeks](https://www.geeksforgeeks.org/)
 - [datacamp](https://www.datacamp.com/tutorial/tutorial-for-recurrent-neural-network)
-- 
+  
