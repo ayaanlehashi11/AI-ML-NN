@@ -1,7 +1,7 @@
 
 import numpy as np 
 from sklearn.discriminant_analysis 
-import LinearDiscriminantAnalysis 
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis 
 from sklearn.model_selection import train_test_split 
 
 # Generate random data 
