@@ -1,3 +1,7 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.mixture import GaussianMixture
+
 fig, (ax1, ax2) = plt.subplots(nrows=1, ncols=2, figsize=(12, 6))
 
 y_pred = GaussianMixture(n_components=3).fit_predict(X_aniso)
