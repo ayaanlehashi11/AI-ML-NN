@@ -2,7 +2,7 @@
 import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.datasets import make_blobs
-from sklearn.mixture import GaussianMixture
+
 
 n_samples = 1500
 random_state = 170
